@@ -11,7 +11,7 @@ I'm a backend, frontend and mobile developer and CTO at [4C Retail Solutions do 
 - Visit my [Website](https://eduardo.chiletto.com.br/)
 
 
-I'm also passionate about airplanes and my favorite phrase is: "Flying isn't dangerous. Dangerous is falling!"
+I'm also passionate about airplanes and my favorite phrase is: "Flying isn't dangerous. Dangerous is fall down!"
 
 
 <h3 align="left">Languages and Tools:</h3>
