@@ -5,7 +5,7 @@
 
 
 ### About me
-I'm a backend, frontend and mobile developer and CTO at [4C Retail Solutions do Brasil](https://www.linkedin.com/company/4c-retail-solutions-do-brasil).
+I'm a backend, frontend and mobile developer.
 
 - ✍🏼 - I write chronicles of my childhood in my spare time;
 - Visit my [Website](https://eduardo.chiletto.com.br/)
