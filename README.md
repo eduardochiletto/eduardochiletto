@@ -17,8 +17,8 @@ My main stack is Node.js + TypeScript, designing robust APIs, event-driven syste
 - ✍🏼 I write chronicles about my childhood in my spare time  
 - ✈️ Aviation enthusiast — *"Flying isn't dangerous. Dangerous is falling."*  
 
-🌐 Visit my website:  
-👉 https://eduardo.chiletto.com.br/
+🌐 Visit my linkedin:  
+👉 [https://eduardo.chiletto.com.br/](https://www.linkedin.com/in/eduardochiletto)
 
 ---
 
